@@ -10,7 +10,7 @@ This was a game developed for the final project in Introdution to Programming in
 - The only language available is PT-BR.
 - The PDF in portuguese is available with all documentation.
 
-Este é um jogo de tabuleiro Pong Hau K'I feito para o projeto final de Computação I em 2021.1 na UFRJ para a professora Valéria Menezes Bastos. O objetivo era fazer um jogo de tabuleiro fiel usando apenas a biblioteca padrão em C. Toda a documentação sobre o trabalho, com as screenshots e informações sobre o código está disponível no PDF.
+Este é um jogo de tabuleiro Pong Hau KI feito para o projeto final de Computação I em 2021.1 na UFRJ para a professora Valéria Menezes Bastos. O objetivo era fazer um jogo de tabuleiro fiel usando apenas a biblioteca padrão em C. Toda a documentação sobre o trabalho, com as screenshots e informações sobre o código está disponível no PDF.
 
 # Authors
  - Manoel Marcelo da Silva 
